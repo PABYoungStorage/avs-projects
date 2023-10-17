@@ -1,0 +1,19 @@
+1. Find the WebID profile document and display the necessary attributes
+
+2. Set and access the primary authentications with account recovery mechanisms
+
+3. Set and access the secondary authentications with account recovery mechanisms 
+
+4. Design authorization and web access control
+
+5. Find the content representation
+
+6 Reading resources from HTTP REST API and WebSockets API
+
+7. Writing resources from HTTP REST API and WebSockets API
+
+8. Data notification using Social Web App protocol
+
+9. Managing subscriptions and friends list using Social Web App protocol
+
+10. Managing list of followers and following list using Social Web App protocol
