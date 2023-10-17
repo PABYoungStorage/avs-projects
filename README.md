@@ -3,8 +3,8 @@
 ## project setup
 
 ```
-git clone <url>
-cd <foldername>
+git clone https://github.com/PABYoungStorage/avs-projects.git
+cd avs-projects
 python3 -m venv .venv
 pip install fastapi["all"]
 ```
